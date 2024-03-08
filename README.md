@@ -1,5 +1,5 @@
 # <h3>apirest_node_sql 🌱</h3>
-This project is a basic ApiRest, it is subject to changes and modifications. This is just a simple example of how you can build and implement a database connection. For educational purposes only.
+This project is a basic ApiRest, it is subject to changes and modifications. This is just a simple example of how a database connection can be built and deployed, using Node.js and Express.
 ### 🛠 &nbsp;Tech Stack 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
